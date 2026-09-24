@@ -1,3 +1,5 @@
+> **Pepperlink fork (dormant):** upstream `txq92/School-Vacation` is an Israel school-vacation Home Assistant sensor; this copy is not deployed anywhere, and nothing is built from it. Archive-or-ignore decision pending.
+
 # Israel School-Vacation with HomeAssistant Sensor Custom Component
 ## Get Israel School Vacation in HomeAssistant
 
